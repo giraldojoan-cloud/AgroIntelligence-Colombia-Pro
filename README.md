@@ -7,7 +7,7 @@ Predecir la biología del suelo en un entorno real es complejo, pero este motor 
 
 ### Ingeniería de Activos (Tech Stack)
 Para alcanzar este nivel de precisión, el sistema implementa:
-- **Algoritmo de Alto Rendimiento:** Uso de **XGBoost (Extreme Gradient Boosting)** para capturar patrones no lineales en Big Data agrícola.
+- **Algoritmo de Alto Rendimiento:** Uso de **Ramdom forest** para capturar patrones no lineales en Big Data agrícola.
 - **Ingeniería de Ratios:** Creación de variables inteligentes como los ratios **Calcio/Magnesio** y **Fósforo/Potasio**, fundamentales para determinar la salud financiera y biológica del cultivo.
 - **Contexto Geográfico:** Codificación avanzada de Departamentos y Municipios para integrar el factor territorial en la predicción.
 
